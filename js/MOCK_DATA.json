@@ -1,0 +1,10 @@
+[{"id":1,"name":"Ardelia Gert","language":"Swati","gender":"Female","race":"Paiute","shirt_size":"L","favourite_color":"Violet","car_owned":"Pontiac","movie_genres":"Action|Adventure|Drama"},
+{"id":2,"name":"Ceil Adger","language":"Zulu","gender":"Female","race":"Bangladeshi","shirt_size":"XS","favourite_color":"Aquamarine","car_owned":"BMW","movie_genres":"Documentary"},
+{"id":3,"name":"Fran Scampion","language":"Kazakh","gender":"Female","race":"Creek","shirt_size":"S","favourite_color":"Mauv","car_owned":"Hyundai","movie_genres":"Comedy|Drama"},
+{"id":4,"name":"Ruthi Flaherty","language":"Marathi","gender":"Female","race":"Puget Sound Salish","shirt_size":"S","favourite_color":"Purple","car_owned":"Cadillac","movie_genres":"Action|Mystery|Thriller"},
+{"id":5,"name":"Simone Ney","language":"Latvian","gender":"Female","race":"Venezuelan","shirt_size":"2XL","favourite_color":"Khaki","car_owned":"Ferrari","movie_genres":"Action|Adventure"},
+{"id":6,"name":"Ferne Rosenbusch","language":"Swahili","gender":"Female","race":"Osage","shirt_size":"L","favourite_color":"Goldenrod","car_owned":"Dodge","movie_genres":"Comedy"},
+{"id":7,"name":"Luciana Duce","language":"Kurdish","gender":"Female","race":"Argentinian","shirt_size":"XS","favourite_color":"Mauv","car_owned":"Ford","movie_genres":"Drama|Romance"},
+{"id":8,"name":"Burke Whyard","language":"Portuguese","gender":"Male","race":"Polynesian","shirt_size":"S","favourite_color":"Fuscia","car_owned":"Isuzu","movie_genres":"Drama"},
+{"id":9,"name":"Walt Jezard","language":"Polish","gender":"Male","race":"Japanese","shirt_size":"L","favourite_color":"Purple","car_owned":"Ford","movie_genres":"Horror"},
+{"id":10,"name":"Kassi Scotchmoor","language":"Armenian","gender":"Female","race":"Honduran","shirt_size":"XS","favourite_color":"Aquamarine","car_owned":"Cadillac","movie_genres":"Comedy|Musical|Sci-Fi"}]
